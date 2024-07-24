@@ -1,2 +1,3 @@
 # SecureJWTAuth
-Bu proje, uygulamanızı güvence altına almak için JWT tabanlı kimlik doğrulama ve yetkilendirme mekanizması uygular. Sadece kimliği doğrulanmış ve yetkilendirilmiş kullanıcıların korumalı kaynaklara erişebilmesini sağlayarak sağlam ve ölçeklenebilir bir güvenlik mekanizması sunar.
+This project implements JWT-based authentication and authorization to secure your application. It provides a robust and scalable security mechanism, ensuring that only authenticated and authorized users can access protected resources.
+
